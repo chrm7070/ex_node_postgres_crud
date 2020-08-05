@@ -1,6 +1,6 @@
-#README
-
-$ git clone
-$ npm install
-$ npm start
+#README  
+  
+$ git clone  
+$ npm install  
+$ npm start  
 
